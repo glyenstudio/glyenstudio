@@ -27,7 +27,7 @@
 ---
 
 ## 🏗️ Project Structure
-
+```bash
 glyenstudio/
 ├── index.html # Homepage with template listings
 ├── about.html # About GlyenStudio
@@ -40,7 +40,7 @@ glyenstudio/
 ├── template1/
 ├── template2/
 └── ...
-
+```
 
 ---
 
